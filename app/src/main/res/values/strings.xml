@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeSearchExample</string>
+    <string name="hint_content">根据输入文字查询城市</string>
+    <string name="title">城市搜索</string>
+</resources>
